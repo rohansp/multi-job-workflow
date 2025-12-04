@@ -38,7 +38,7 @@ jobs:
 
   macos:
     runs-on: macos-latest
-    stes:
+    steps:
     - name: Checkout code
       uses: actions/checkout@v4
 
